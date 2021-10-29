@@ -973,7 +973,7 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
             
 
-USTAD_PIC = "https://telegra.ph/file/5885702e3a3fb66fe2d3d.jpg"
+USTAD_PIC = ""
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 @wdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
