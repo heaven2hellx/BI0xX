@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> ɮɨ0 x✘ ǟռӄɨȶ</b>
+<b> ɮɨ0 x✘ SPAM</b>
 </h1>
 
 ## ✨ɮɨ0 x✘ 
